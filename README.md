@@ -1,7 +1,7 @@
 ### ⚡ Hey, I’m Shyam 👋  
 **Vibe Coder | Builder | Curious Human**
 
-I love creating things that *feel like magic* — from small browser scripts that automate my day to experimental pages that push what HTML and AI can do together.  
+I love creating things that *feel like magic*, from small browser scripts that automate my day to experimental pages that push what HTML and AI can do together.  
 
 I’m all about learning fast, building fast, and figuring things out along the way.  
 
